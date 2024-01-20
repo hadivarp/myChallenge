@@ -1,4 +1,4 @@
-# Programming Problem Repository
+# My Code Challenge
 
 In this repository, I have chosen to solve programming problems that I come across, written in languages I am familiar with, or at least those I believe I understand. These questions differ from those found in other sources like Euler Project or LeetCode. In my view, these questions hold value, and I have implemented solutions here for my own enjoyment.
 
