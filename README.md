@@ -7,3 +7,7 @@ In this repository, I have chosen to solve programming problems that I come acro
 - **Dizzy Problem**
   
   Regarding the sources of these questions, it's worth mentioning that I discovered them in one of [Jadi's videos](https://www.youtube.com/watch?v=jp75eufhOLc&list=PL-tKrPVkKKE3TgSTGMXiIhkqA8Xf7bM3E). Since his repository is not regularly updated, I made the decision to save and maintain them here.
+
+- **MayDay Problem**
+
+  This is the second question of [Jadi's videos](https://www.youtube.com/watch?v=XlAJtpd3kSI&list=PL-tKrPVkKKE3TgSTGMXiIhkqA8Xf7bM3E&index=2).
