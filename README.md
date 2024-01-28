@@ -16,5 +16,9 @@ Welcome to my code challenge repository! Here, I've taken on the task of solving
 
   The third question involves generating three-digit numbers using only 2 different digits taken from 1 to 9. The challenge is to explore the possibilities of creating these numbers, even allowing repetition of digits. This question can be found in [Jadi's videos](https://www.youtube.com/watch?v=D48MKRyQZMA&list=PL-tKrPVkKKE3TgSTGMXiIhkqA8Xf7bM3E&index=3).
 
+- **Three Number Sum**
+
+  The fourth question, "Three Number Sum," focuses on finding all triplets in an array that sum up to a [target](https://github.com/lee-hen/Algoexpert/tree/master/medium/02_three_number_sum) sum. The numbers in each triplet should be ordered in ascending order, and the triplets themselves should be ordered in ascending order with respect to the numbers they hold.
+
 Feel free to explore the solutions, and I hope you find them as enjoyable as I did!
 
