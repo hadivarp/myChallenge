@@ -20,5 +20,10 @@ Welcome to my code challenge repository! Here, I've taken on the task of solving
 
   The fourth question, "Three Number Sum," focuses on finding all triplets in an array that sum up to a [target](https://github.com/lee-hen/Algoexpert/tree/master/medium/02_three_number_sum) sum. The numbers in each triplet should be ordered in ascending order, and the triplets themselves should be ordered in ascending order with respect to the numbers they hold.
 
+- **Monotonic Array**
+
+  The fifth question, "Monotonic Array," requires writing a function that takes in an array of integers and returns a boolean representing whether the array is monotonic. An array is said to be monotonic if its elements, from left to right, are entirely non-increasing or entirely non-decreasing. Non-increasing elements aren't necessarily exclusively decreasing; they simply don't increase. Similarly, non-decreasing elements aren't necessarily exclusively increasing; they simply don't decrease. Note that empty arrays and arrays of one element are [monotonic](https://github.com/lee-hen/Algoexpert/tree/master/medium/05_is_monotonic).
+
 Feel free to explore the solutions, and I hope you find them as enjoyable as I did!
+
 
