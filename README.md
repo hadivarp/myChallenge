@@ -34,4 +34,11 @@ Welcome to my code challenge repository! Here, I've taken on the task of solving
 
   The sixth question, "Move Element To End," requires writing a function that moves all instances of a given integer in the array to the end of the array and returns the array. The function should perform this in place (i.e., it should mutate the input array) and doesn't need to maintain the order of the other integers. Check out the details [here](https://github.com/lee-hen/Algoexpert/blob/master/medium/04_move_element_to_end/readme.md).
 
+- **Valid BST**
+  [![Easy](https://img.shields.io/badge/Difficulty-Easy-green)](#easy)
+
+  The seventh [question](https://github.com/lee-hen/Algoexpert/blob/master/medium/09_validate_bst/readme.md) focuses on validating a Binary Search Tree (BST). Each node in the BST has an integer value, a left child node, and a right child node. To be considered a valid BST node, the node must satisfy the BST property: its value should be strictly greater than the values of every node to its left, less than or equal to the values of every node to its right, and its children nodes should either be valid BST nodes themselves or None/null. This problem provides an opportunity to implement a function to check whether a given binary tree adheres to the specified conditions, making it a suitable challenge for those at an easy difficulty level.
+  
+
+
 Feel free to explore the solutions, and I hope you find them as enjoyable as I did!
