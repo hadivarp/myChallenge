@@ -38,7 +38,10 @@ Welcome to my code challenge repository! Here, I've taken on the task of solving
   [![Easy](https://img.shields.io/badge/Difficulty-Easy-green)](#easy)
 
   The seventh [question](https://github.com/lee-hen/Algoexpert/blob/master/medium/09_validate_bst/readme.md) focuses on validating a Binary Search Tree (BST). Each node in the BST has an integer value, a left child node, and a right child node. To be considered a valid BST node, the node must satisfy the BST property: its value should be strictly greater than the values of every node to its left, less than or equal to the values of every node to its right, and its children nodes should either be valid BST nodes themselves or None/null. This problem provides an opportunity to implement a function to check whether a given binary tree adheres to the specified conditions, making it a suitable challenge for those at an easy difficulty level.
-  
 
+- **Min Number of Coins for Change**
+  [![Medium](https://img.shields.io/badge/Difficulty-Medium-blue)](#medium)
+
+  The eighth question, "Min Number of Coins for Change," addresses the challenge of finding the smallest number of coins needed to make change for a target amount using given coin denominations. Given an array of positive integers representing coin denominations and a single non-negative integer n representing a target amount of money, the task is to write a function that returns the smallest number of coins needed. Note that you have access to an unlimited amount of coins. In other words, if the denominations are [1, 5, 10], you have access to an unlimited amount of 1s, 5s, and 10s. The source and solution for this question can be found [here](https://github.com/lee-hen/Algoexpert/tree/master/medium/15_min_number_of_coins_for_change).
 
 Feel free to explore the solutions, and I hope you find them as enjoyable as I did!
