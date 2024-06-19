@@ -44,4 +44,9 @@ Welcome to my code challenge repository! Here, I've taken on the task of solving
 
   The eighth question, "Min Number of Coins for Change," addresses the challenge of finding the smallest number of coins needed to make change for a target amount using given coin denominations. Given an array of positive integers representing coin denominations and a single non-negative integer n representing a target amount of money, the task is to write a function that returns the smallest number of coins needed. Note that you have access to an unlimited amount of coins. In other words, if the denominations are [1, 5, 10], you have access to an unlimited amount of 1s, 5s, and 10s. The source and solution for this question can be found [here](https://github.com/lee-hen/Algoexpert/tree/master/medium/15_min_number_of_coins_for_change).
 
+- **Guessing Number**
+  [![Easy](https://img.shields.io/badge/Difficulty-Easy-green)](#easy)
+
+  The ninth question, "Guessing Number," involves creating a game where the player has up to 10 chances to guess a randomly generated number between 1 and 100. The player is informed whether their guess is too low or too high after each attempt. If the player guesses correctly within 10 attempts, they win. Otherwise, the game ends with a failure message.
+
 Feel free to explore the solutions, and I hope you find them as enjoyable as I did!
