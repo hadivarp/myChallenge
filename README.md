@@ -49,4 +49,9 @@ Welcome to my code challenge repository! Here, I've taken on the task of solving
 
   The ninth question, "Guessing Number," involves creating a game where the player has up to 10 chances to guess a randomly generated number between 1 and 100. The player is informed whether their guess is too low or too high after each attempt. If the player guesses correctly within 10 attempts, they win. Otherwise, the game ends with a failure message.
 
+- **Guessing Repeated Number**
+  [![Easy](https://img.shields.io/badge/Difficulty-Easy-green)](#easy)
+
+  The tenth question, "Guessing Repeated Number," is a game where the program generates an array of 10 random numbers between 1 and 9. The player is shown these numbers for 5 seconds, then the screen is cleared. A random number from 1 to 9 is selected, and the player must guess how many times that number appears in the array. The game tests the player's memory and counting skills in a fun, interactive way.
+
 Feel free to explore the solutions, and I hope you find them as enjoyable as I did!
